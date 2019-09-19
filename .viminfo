@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1568889338,,"wq"
+|2,0,1568890454,,"wq"
 :1
 |2,0,1568889277,,"1"
 
@@ -26,20 +26,34 @@
 
 # Registers:
 ""-	CHAR	0
-	u
-|3,1,36,0,1,0,1568889333,"u"
+	s
+|3,1,36,0,1,0,1568890446,"s"
 
 # File marks:
-'0  3  17  ~/jenkins
-|4,48,3,17,1568889338,"~/jenkins"
-'1  27  0  ~/jenkins
-|4,49,27,0,1568886449,"~/jenkins"
-'2  27  0  ~/jenkins
-|4,50,27,0,1568886449,"~/jenkins"
+'0  11  19  ~/jenkins
+|4,48,11,19,1568890454,"~/jenkins"
+'1  3  17  ~/jenkins
+|4,49,3,17,1568889338,"~/jenkins"
+'2  3  17  ~/jenkins
+|4,50,3,17,1568889338,"~/jenkins"
+'3  27  0  ~/jenkins
+|4,51,27,0,1568886449,"~/jenkins"
+'4  27  0  ~/jenkins
+|4,52,27,0,1568886449,"~/jenkins"
+'5  27  0  ~/jenkins
+|4,53,27,0,1568886449,"~/jenkins"
+'6  27  0  ~/jenkins
+|4,54,27,0,1568886449,"~/jenkins"
 
 # Jumplist (newest first):
+-'  11  19  ~/jenkins
+|4,39,11,19,1568890454,"~/jenkins"
+-'  3  17  ~/jenkins
+|4,39,3,17,1568890430,"~/jenkins"
 -'  3  17  ~/jenkins
 |4,39,3,17,1568889338,"~/jenkins"
+-'  27  0  ~/jenkins
+|4,39,27,0,1568889253,"~/jenkins"
 -'  27  0  ~/jenkins
 |4,39,27,0,1568889253,"~/jenkins"
 -'  27  0  ~/jenkins
@@ -48,13 +62,16 @@
 |4,39,1,0,1568886399,"~/jenkins"
 -'  1  0  ~/jenkins
 |4,39,1,0,1568886399,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1568886399,"~/jenkins"
 
 # History of marks within files (newest to oldest):
 
 > ~/jenkins
-	*	1568889336	0
-	"	3	17
-	^	3	18
-	.	3	17
+	*	1568890453	0
+	"	11	19
+	^	11	20
+	.	11	19
 	+	27	0
 	+	3	17
+	+	11	19
